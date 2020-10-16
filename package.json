@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fromatob/vue-stripe-elements.git"
+    "url": "git+https://github.com/noahvaporware/noahlozevski-vue-stripe-elements.git"
   },
   "keywords": [
     "vue",
@@ -18,14 +18,14 @@
     "payment"
   ],
   "author": {
-    "name": "fromAtoB GmbH",
-    "url": "https://fromatob.com"
+    "name": "noah lozevski",
+    "email": "noah@vaporware.net"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fromatob/vue-stripe-elements/issues"
+    "url": "https://github.com/noahvaporware/noahlozevski-vue-stripe-elements"
   },
-  "homepage": "https://github.com/fromatob/vue-stripe-elements#readme",
+  "homepage": "https://github.com/noahvaporware/noahlozevski-vue-stripe-elements#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   },

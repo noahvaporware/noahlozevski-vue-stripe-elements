@@ -2,12 +2,14 @@
 
 A Vue 2 component collection for [stripe elements](https://stripe.com/docs/elements).
 
+Forked to allow for customization of UI elements/upgrading of features.
+
 ## Usage example
 
 Install package:
 
 ```
-$ npm i vue-stripe-elements-plus --save
+$ npm i @noahlozevski/vue-stripe-elements-plus --save
 ```
 
 Add Stripe.js library to **index.html**:
